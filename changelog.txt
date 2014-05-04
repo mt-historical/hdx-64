@@ -1,3 +1,5 @@
+2014-05-04: Ran all pngs through pngcrush in brute-force mode.
+
 2014-05-02: Added mese and diamond bows and bones for Carbone game. 
 Re-balanced default buckets (RGB vs grayscale mixups). Minor 
 imporvements in smaller sizes.
