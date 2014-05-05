@@ -1,3 +1,6 @@
+2014-05-05: Quality improvements to lower-resolution furnaces (0.4.x 
+only), added Carbone locked furnace images.
+
 2014-05-04: Ran all pngs through pngcrush in brute-force mode.
 
 2014-05-02: Added mese and diamond bows and bones for Carbone game. 
