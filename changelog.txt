@@ -1,3 +1,5 @@
+2014-05-06: copper rails for Carbone game.
+
 2014-05-05: Quality improvements to lower-resolution furnaces (0.4.x 
 only), added Carbone locked furnace images.
 
