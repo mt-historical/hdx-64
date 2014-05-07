@@ -1,3 +1,6 @@
+2014-05-07: New heart/bubble images, needs minetest core commit d3ee617f 
+or later.
+
 2014-05-06: copper rails for Carbone game.
 
 2014-05-05: Quality improvements to lower-resolution furnaces (0.4.x 
