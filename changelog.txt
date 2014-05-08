@@ -1,4 +1,4 @@
-2014-05-08: Snow images for snowdrift mod.
+2014-05-08: Snow and rain images for snowdrift mod.
 
 2014-05-07: New heart/bubble images, needs minetest core commit d3ee617f 
 or later.
