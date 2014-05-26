@@ -1,3 +1,5 @@
+2014-05-26: Added support for plasticbox mod.
+
 2014-05-13: Added support for moontest game.
 
 2014-05-08: Added desert cobble.
