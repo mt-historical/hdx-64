@@ -1,5 +1,6 @@
 2014-06-07: Added support for zeno's Orichalcum mod, reduced some images 
-to 64px since they're for inventory use.
+to 64px since they're for inventory use.  Most images replaced right 
+away because I'm obsessive ;-)
 
 2014-05-27: Update for technic's steel/iron/carbon-steel changes.
 
