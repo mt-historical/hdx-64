@@ -1,3 +1,6 @@
+2014-06-10: New minetest_game and multiplayer/client-mode menu overlay 
+images to match current state of HDX.
+
 2014-06-07: Added support for zeno's Orichalcum mod, reduced some images 
 to 64px since they're for inventory use.  Most images replaced right 
 away because I'm obsessive ;-)
