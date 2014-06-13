@@ -1,4 +1,4 @@
-2014-06-13: Added mtz slate texture.
+2014-06-13: Added mtz slate and pink marble image (latter courtesy Zeno)
 
 2014-06-10: New minetest_game and multiplayer/client-mode menu overlay 
 images to match current state of HDX.
