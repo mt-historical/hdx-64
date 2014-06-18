@@ -1,9 +1,11 @@
-2014-06-18: Wheat sheaf needs to be full-size for use by cottages mod, 
-and added slate roof and barrel textures for that mod.
+2014-06-18: Multiple changes today:
 
-2014-06-18: Get rid of second and third shades of 3dforniture-related 
-textures for Homedecor. Minetest has per-face shading of nodes now so 
-these textures are redundant.
+* Wheat sheaf needs to be full-size for use by cottages mod
+* Added slate roof and barrel textures for that mod.  
+* Added textures for homedecor/signs_lib hanging signs.
+* Got rid of second and third shades of 3dforniture-related textures for
+  Homedecor (Minetest has per-face shading of nodes now so these textures are
+  redundant).
 
 2014-06-18: Added homedecor power crystal.
 
