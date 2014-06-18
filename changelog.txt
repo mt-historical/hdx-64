@@ -1,3 +1,5 @@
+2014-06-18: Wheat sheaf needs to be full-size for use by cottages mod.
+
 2014-06-18: Added cottages barrel textures.
 
 2014-06-18: Get rid of second and third shades of 3dforniture-related 
