@@ -1,3 +1,5 @@
+2014-06-18: Added cottages barrel textures.
+
 2014-06-18: Get rid of second and third shades of 3dforniture-related 
 textures for Homedecor. Minetest has per-face shading of nodes now so 
 these textures are redundant.
