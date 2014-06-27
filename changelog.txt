@@ -1,6 +1,6 @@
-2014-06-27: copy mtz_moss_large.png -> caverealms_moss.png
-
-2014-06-27: Add more MTZ and caveralms imagery courtesy of Zeno` :-)
+2014-06-27: Add more MTZ and caveralms imagery courtesy of Zeno` :-) 
+along with caverealms glow crystal/mese/emerald.  Also, copied 
+mtz_moss_large.png -> caverealms_moss.png
 
 2014-06-18: Multiple changes today:
 
