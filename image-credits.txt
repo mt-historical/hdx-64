@@ -1139,3 +1139,4 @@ orichalcum/mtz mod
 ------------------
 http://commons.wikimedia.org/wiki/File:Drystone_wall_tileable_1024x1024.jpg
 http://commons.wikimedia.org/wiki/File:MarcellusShaleCloseUp.jpg
+http://commons.wikimedia.org/wiki/Amethyst#mediaviewer/File:GuerreroAm%C3%A9thyste.jpg

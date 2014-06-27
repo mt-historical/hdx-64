@@ -1,3 +1,5 @@
+2014-06-27: Add more MTZ and caveralms imagery courtesy of Zeno` :-)
+
 2014-06-18: Multiple changes today:
 
 * Wheat sheaf needs to be full-size for use by cottages mod
