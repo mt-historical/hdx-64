@@ -1,3 +1,5 @@
+2014-06-28: More mtz/caverealms imagery
+
 2014-06-27: fix caverealms_glow_ore (should have stone in background layer
 
 2014-06-27: Add more MTZ and caveralms imagery courtesy of Zeno` :-) 
