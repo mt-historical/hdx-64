@@ -1,3 +1,5 @@
+2014-06-30: Fix opacity on caverealms glow gems
+
 2014-06-28: More mtz/caverealms imagery
 
 2014-06-27: fix caverealms_glow_ore (should have stone in background layer
