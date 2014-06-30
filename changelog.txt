@@ -1,3 +1,6 @@
+2014-06-30: Add much, MUCH better caverealms glow crystal/mese/emerald 
+textures.
+
 2014-06-30: Fix opacity on caverealms glow gems, add glow emerald ore, 
 thin ice, and icicles.  Remove alpha from 16 and 32px sizes of icicles.
 
