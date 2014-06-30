@@ -1,4 +1,4 @@
-2014-06-30: Fix opacity on caverealms glow gems
+2014-06-30: Fix opacity on caverealms glow gems, add glow emerald ore.
 
 2014-06-28: More mtz/caverealms imagery
 
