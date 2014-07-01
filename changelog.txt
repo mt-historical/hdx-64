@@ -1,3 +1,5 @@
+2014-07-01: Add caverealms glow worm
+
 2014-06-30: Add much, MUCH better caverealms glow crystal/mese/emerald 
 textures.
 
