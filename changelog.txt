@@ -1,3 +1,5 @@
+2014-07-01: Add mycena powder image for caverealms and mtz
+
 2014-07-01: Add caverealms glow worm and Australian variety of same for MTZ.
 
 2014-06-30: Add much, MUCH better caverealms glow crystal/mese/emerald 
