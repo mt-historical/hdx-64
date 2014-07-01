@@ -1,4 +1,4 @@
-2014-07-01: Add caverealms glow worm and Australian variety or same for MTZ.
+2014-07-01: Add caverealms glow worm and Australian variety of same for MTZ.
 
 2014-06-30: Add much, MUCH better caverealms glow crystal/mese/emerald 
 textures.
