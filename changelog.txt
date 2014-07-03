@@ -1,3 +1,5 @@
+2014-07-03: Add support for Homedecor's framed pictures
+
 2014-07-01: Better caverealms algae.
 
 2014-07-01: Add mycena powder image for caverealms and mtz
