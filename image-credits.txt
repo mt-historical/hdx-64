@@ -437,10 +437,7 @@ irontrees:  all four are same as alien and bouleau (re-colored)
 vines, vines-rotten:  same as default_rope (re-colored)
 
 nature - blossom
-http://commons.wikimedia.org/wiki/File:Apple_blossom_%28Malus_domestica%29_05.JPG
-http://commons.wikimedia.org/wiki/File:Apple_blossom_%28Malus_domestica%29_09.JPG
-http://commons.wikimedia.org/wiki/File:Apple_blossom_%28Malus_domestica%29_23.JPG
-http://commons.wikimedia.org/wiki/File:Apple_blossom_%28Malus_domestica%29_21.JPG
+http://commons.wikimedia.org/wiki/File:Apple_blossom_(Malus_domestica)_06.JPG
 
 bushes - berry pie (raw and cooked)
 http://commons.wikimedia.org/wiki/File:Rhubarb_Pie_Lattice_Crust_Delicious.JPG
