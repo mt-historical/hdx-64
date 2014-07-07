@@ -1,3 +1,5 @@
+2014-07-07: New imagery for Minetest/minetest_game 0.4.10
+
 2014-07-04: New apple blossom image for nature mod.
 
 2014-07-03: Add support for Homedecor's framed pictures.
