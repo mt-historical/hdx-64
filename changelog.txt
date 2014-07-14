@@ -1,3 +1,5 @@
+2014-07-14: Added background images for Dreambuilder's furnaces and chests.
+
 2014-07-13: Added more MTZ testtube images, new red marble image, from Zeno`.
 
 2014-07-11: Added MTZ test tube and deep red marble images.
