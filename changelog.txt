@@ -1,4 +1,5 @@
-2014-07-14: Added background images for Dreambuilder's furnaces and chests.
+2014-07-14: Added background images for Dreambuilder's furnaces and 
+chests, and signs_lib and locks mod backgrounds
 
 2014-07-13: Added more MTZ testtube images, new red marble image, from Zeno`.
 
