@@ -1,3 +1,5 @@
+2014-07-15: All new ingot images!
+
 2014-07-14: Added background images for Dreambuilder's furnaces and 
 chests, and signs_lib and locks mod backgrounds
 
