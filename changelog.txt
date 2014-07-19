@@ -1,3 +1,6 @@
+2014-07-19: Make sun and moon 256 and 192 px, respectively. 1024 and 
+768px is overkill at any screen size.
+
 2014-07-19: Added MTZ platinum coin, ingot, and titanium dust
 
 2014-07-15: All new ingot images!
