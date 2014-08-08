@@ -1,3 +1,5 @@
+2014-08-08: Added mtz orichalcum axe and shovel
+
 2014-07-19: Make sun and moon 256 and 192 px, respectively. 1024 and 
 768px is overkill at any screen size.
 
