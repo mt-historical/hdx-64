@@ -1,6 +1,6 @@
 2014-08-08: New sign textures for signs_lib and homedecor to fit current 
-version of signs_lib.  Got rid of outdated normalmaps for these - will re-do
-later.
+version of signs_lib; added yellow and green metal signs also.  Got rid 
+of outdated normalmaps for these - will re-do later.
 
 2014-08-08: tweak 16px versions of those tools, fix 16px mese axe
 
