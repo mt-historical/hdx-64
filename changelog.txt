@@ -1,3 +1,5 @@
+2014-08-10: Rework signs textures to fit current state of signs_lib
+
 2014-08-08: New sign textures for signs_lib and homedecor to fit current 
 version of signs_lib; added yellow and green metal signs also.  Got rid 
 of outdated normalmaps for these - will re-do later.
