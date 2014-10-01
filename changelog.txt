@@ -1,3 +1,5 @@
+2014-10-01: Added comendite for MTZ/stones plus
+
 2014-08-12: All new handle texture for 64px and larger picks, except for 
 orichalcum (doesn't need it). Fix screwed up 512px texture for that one.
 

@@ -1154,3 +1154,6 @@ http://commons.wikimedia.org/wiki/File:Ice_crystals.JPG
 http://commons.wikimedia.org/wiki/File:Zirconium_carbide_ZrC.jpg
 http://commons.wikimedia.org/wiki/File:Algae-oxygen-bubbles.jpg
 http://commons.wikimedia.org/wiki/Coins#mediaviewer/File:1821_George_IV_Crown_%28obverse%29_File_Pic.JPG
+http://en.wikipedia.org/wiki/File:PinkRhyolite.tif
+http://upload.wikimedia.org/wikipedia/commons/0/0b/Comendite_rjw.jpg
+
