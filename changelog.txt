@@ -1,3 +1,6 @@
+2014-10-18: Add textures for Carbone default tin and silver 
+ores/lumps/ingots/blocks
+
 2014-10-01: Added comendite for MTZ/stones plus
 
 2014-08-12: All new handle texture for 64px and larger picks, except for 
