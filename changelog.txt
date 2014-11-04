@@ -1,4 +1,4 @@
-2014-11-04: fix right edge of wieldhand
+2014-11-04: fix right edge of wieldhand (smaller sizes manually)
 
 2014-10-18: Add textures for Carbone default tin and silver 
 ores/lumps/ingots/blocks
