@@ -1,3 +1,6 @@
+2014-12-18: plantlike leaves images are obsolete now due to fixes in the 
+engine.
+
 2014-12-18: fix floating ferns
 
 2014-11-06: fix missing admin pick wih-drops image
