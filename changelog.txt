@@ -1,3 +1,7 @@
+2015-01-15: removed support for pipeworks' metal pipes and related 
+devices (the textures are woefully outdated; I will put this back in 
+later when I have time)
+
 2014-12-18: plantlike leaves images are obsolete now due to fixes in the 
 engine.
 
