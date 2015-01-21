@@ -1,3 +1,6 @@
+2015-01-21: Adjust filenames of doors images to accommodate current 
+minetest_game
+
 2015-01-15: removed support for pipeworks' metal pipes and related 
 devices (the textures are woefully outdated; I will put this back in 
 later when I have time)
