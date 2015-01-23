@@ -1,3 +1,5 @@
+2015-01-23: ran all PNGs through pngcrush and optipng.
+
 2015-01-21: Adjust filenames of doors images to accommodate current 
 minetest_game
 
