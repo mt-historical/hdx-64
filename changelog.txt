@@ -1,3 +1,5 @@
+2015-01-31: Add "metallic" tube connection overlay
+
 2015-01-23: ran all PNGs through pngcrush and optipng.
 
 2015-01-21: Adjust filenames of doors images to accommodate current 
