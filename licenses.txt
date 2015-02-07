@@ -1,0 +1,22 @@
+bushes_blackberry.png
+	this is a derived work 
+	original file: https://upload.wikimedia.org/wikipedia/commons/0/04/Blackberry_close-up.JPG
+	creator: De-okin (https://commons.wikimedia.org/wiki/User:De-okin)
+	license: This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.
+
+bushes_blueberry.png
+	this is a derived work
+	original file: https://upload.wikimedia.org/wikipedia/commons/e/e4/Vaccinium_fruits.JPG
+	creator: Zirpe (https://commons.wikimedia.org/wiki/User:Zirpe)
+	license: This file is licensed under the Creative Commons Attribution-Share Alike 2.5 Generic, 2.0 Generic and 1.0 Generic license.
+
+bushes_gooseberry.png
+	this is a derived work
+	original file: https://upload.wikimedia.org/wikipedia/commons/b/b8/Gooseberries.jpg
+	creator: neurovelho (https://commons.wikimedia.org/wiki/User:Neurovelho)
+	license: CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons
+
+bushes_raspberry.png
+	this is a derived work
+	original file: http://pixabay.com/en/raspberry-red-berry-fruit-wild-446426/
+	license: CC0 Public Domain
