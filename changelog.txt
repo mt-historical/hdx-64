@@ -1,3 +1,6 @@
+2015-02-06: Added partial support for Animals mod and some images for 
+bushes/bushes_classic, thanks to images contributed by C. Conrad Cady.
+
 2015-01-31: Add "metallic" tube connection overlay
 
 2015-01-23: ran all PNGs through pngcrush and optipng.
