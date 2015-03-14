@@ -1,3 +1,6 @@
+2015-03-14: Dropped support for ilights, as it now uses mesh nodes and 
+needs entirely new textures. Will re-add support at a later date.
+
 2015-03-11: fix glass for glasslike-framed drawtype
 
 2015-02-08: More animals modpack updates from ccady
