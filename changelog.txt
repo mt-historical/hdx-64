@@ -1,4 +1,4 @@
-2015-03-16: Add technic lead and sulfur ores and lumps, lead ingot and block
+2015-03-16: Add technic lead and sulfur ores, lumps, et al.
 
 2015-03-14: Dropped support for ilights, as it now uses mesh nodes and 
 needs entirely new textures. Will re-add support at a later date.
