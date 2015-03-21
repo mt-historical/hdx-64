@@ -1,3 +1,5 @@
+2015-03-21: drop mesecons wall lever images, obsolete (will update later)
+
 2015-03-17: Better trunks-twig images
 
 2015-03-16: Add technic lead and sulfur ores, lumps, et al.
