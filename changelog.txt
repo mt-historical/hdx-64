@@ -1,4 +1,4 @@
-2015-04-18: fixed scaling errors on default fence overlays
+2015-04-18: fixed scaling errors on default fence overlays... twice
 
 2015-03-30: drop 3dforniture torch images and chains inv image, to be 
 replaced with homedecor versions later
