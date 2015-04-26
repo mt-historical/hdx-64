@@ -1,5 +1,6 @@
 2015-04-26: remove homdecor doos and shutter images (obsolete texture 
-format), will re-add later
+format), will re-add later, add images for homedecor speakers, and added 
+various metal-related images.
 
 2015-04-18: fixed scaling errors on default fence overlays... twice
 

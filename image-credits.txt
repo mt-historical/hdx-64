@@ -229,6 +229,9 @@ Also Minetest logo as used on main page, wiki, etc.
 mese (in stone)
 http://en.wikipedia.org/wiki/File:Blue_Hills_blue_rocks.jpg
 
+paper
+http://upload.wikimedia.org/wikipedia/commons/b/ba/ManilaPaper.jpg
+
 hatches, throwing
 ----------------
 hatches_hatch
