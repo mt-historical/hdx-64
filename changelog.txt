@@ -14,6 +14,7 @@
 * Re-added homedecor cardboard boxes
 * Added homedecor chimney top texture
 * Re-added homedecor curtains
+* Re-added various kitchen cabinet/counter tops and kitchen sink
 
 2015-04-27: remove obsolete wrought and brass textures, will replace later
 
