@@ -1,5 +1,6 @@
 2015-06-18: updated signs_lib background image, re-added support for 
-signs_lib's wall and locked signs.
+signs_lib's wooden wall and locked signs and all the various metal 
+signs.  Added support for new ones recently added to the mod by cheapie.
 
 2015-04-27: remove obsolete wrought and brass textures, will replace later
 
