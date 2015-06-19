@@ -11,6 +11,7 @@
 * Added homedecor terrycloth
 * Added homedecor generic plastic
 * Added homedecor bed bottom and metal sides
+* Re-added homedecor cardboard boxes
 
 2015-04-27: remove obsolete wrought and brass textures, will replace later
 

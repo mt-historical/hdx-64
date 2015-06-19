@@ -621,6 +621,12 @@ http://commons.wikimedia.org/wiki/File:Kluft-photo-fireworks-Cameron-Park-June-2
 Homedecor
 ---------
 
+bed felt:
+https://commons.wikimedia.org/wiki/File:Felt_of_wool_and_rayon.jpg
+
+cardboard:
+https://commons.wikimedia.org/wiki/File:Google_Cardboard_-_Unopened_Reverse.JPG
+
 Chainlink fence:
 http://commons.wikimedia.org/wiki/File:Chainlink_fence_no_background.jpg
 
@@ -913,6 +919,7 @@ http://commons.wikimedia.org/wiki/File:Fatwood_firestarters.jpg
 http://commons.wikimedia.org/wiki/File:Merops_pusillus_-Little_Bee-eater_-two_on_branch.jpg
 http://en.wikipedia.org/wiki/File:Geschliffener_blauer_Saphir.jpg
 http://commons.wikimedia.org/wiki/File:Old_Swiss_table_knives.JPG
+https://commons.wikimedia.org/wiki/File:Badstof_RA.jpg?uselang=itwikimedia
 
 Vines
 -----
