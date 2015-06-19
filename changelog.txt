@@ -10,6 +10,7 @@
 * Re-added homedecor generic woods.
 * Added homedecor terrycloth
 * Added homedecor generic plastic
+* Added homedecor bed bottom and metal sides
 
 2015-04-27: remove obsolete wrought and brass textures, will replace later
 
