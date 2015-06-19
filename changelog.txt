@@ -17,6 +17,7 @@
 * Re-added various kitchen cabinet/counter tops and kitchen sink
 * Added homedecor copper and steel wire and strips
 * Added homedecor brass and steel chainlinks
+* Re-added window shutters
 
 2015-04-27: remove obsolete wrought and brass textures, will replace later
 
