@@ -18,6 +18,8 @@
 * Added homedecor copper and steel wire and strips
 * Added homedecor brass and steel chainlinks
 * Re-added window shutters
+* Added filing cabinet images
+* Re-worked nightstands
 
 2015-04-27: remove obsolete wrought and brass textures, will replace later
 
