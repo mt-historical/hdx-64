@@ -20,6 +20,8 @@
 * Re-added window shutters
 * Added filing cabinet images
 * Re-worked nightstands
+* Re-added speaker front cloth
+* Added desk front drawers.
 
 2015-04-27: remove obsolete wrought and brass textures, will replace later
 
