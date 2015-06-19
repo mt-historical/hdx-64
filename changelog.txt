@@ -23,6 +23,7 @@
 * Re-added speaker front cloth
 * Added desk front drawers.
 * Re-added some missing homedecor/3dforniture marble textures
+* Re-added wood small-square and small-round tables
 
 2015-04-27: remove obsolete wrought and brass textures, will replace later
 
