@@ -8,6 +8,7 @@
 * Refreshed homedecor's brass and wrought iron signs-on-fences to match the
   related metals.
 * Re-added homedecor generic woods.
+* Added homedecor terrycloth
 
 2015-04-27: remove obsolete wrought and brass textures, will replace later
 
