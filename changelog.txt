@@ -9,6 +9,7 @@
   related metals.
 * Re-added homedecor generic woods.
 * Added homedecor terrycloth
+* Added homedecor generic plastic
 
 2015-04-27: remove obsolete wrought and brass textures, will replace later
 
