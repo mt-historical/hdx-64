@@ -1,4 +1,5 @@
-2015-06-18: updated signs_lib background image
+2015-06-18: updated signs_lib background image, re-added support for 
+signs_lib's wall and locked signs.
 
 2015-04-27: remove obsolete wrought and brass textures, will replace later
 
