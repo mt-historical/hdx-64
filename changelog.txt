@@ -1,3 +1,6 @@
+2015-06-21: removed outdated 'potted flower' images, added missing 
+homedecor small flowerpot texture
+
 2015-06-18: Multiple changes:
 
 * Updated signs_lib background image
