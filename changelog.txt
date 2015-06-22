@@ -1,5 +1,5 @@
 2015-06-21: removed outdated 'potted flower' images, added missing 
-homedecor small flowerpot texture
+homedecor small flowerpot texture, potted cactus and potted bonsai
 
 2015-06-18: Multiple changes:
 
