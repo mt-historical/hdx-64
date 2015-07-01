@@ -1,4 +1,5 @@
-2015-07-01: Add default pine trees/wood/etc. and default beds.
+2015-07-01: Add default pine trees/wood/etc., default beds, and default 
+river water (and its bucket). Refreshed other bucket images.
 
 2015-06-28: fix outdated Unified Inventory formspec image
 
