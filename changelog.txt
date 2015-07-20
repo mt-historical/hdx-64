@@ -1,3 +1,6 @@
+2015-07-19: dropped support for Moretrees' copies of pine nodes (that 
+mod uses the default versions of these nodes now)
+
 2015-07-01: Add default pine trees/wood/etc., default beds, and default 
 river water (and its bucket). Refreshed other bucket images.
 
