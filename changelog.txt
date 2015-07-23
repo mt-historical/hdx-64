@@ -1,4 +1,5 @@
-2015-07-23: Add default acacia trees, dry grasses, rework regular grass side.
+2015-07-23: Add default acacia trees, dry grasses, rework regular grass 
+side and snow side.
 
 2015-07-19: dropped support for Moretrees' copies of pine nodes (that 
 mod uses the default versions of these nodes now)
