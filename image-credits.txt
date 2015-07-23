@@ -961,11 +961,11 @@ farming
 http://commons.wikimedia.org/wiki/File:Japanese-hoe-kuwa,katori-city,japan.JPG
 http://commons.wikimedia.org/wiki/File:Freshly_baked_bread_loaves.jpg
 http://commons.wikimedia.org/wiki/File:Triticum_spelta_flour,_speltmeel.jpg
-http://commons.wikimedia.org/wiki/File:Wheat_grain.jpg
 http://commons.wikimedia.org/wiki/File:Cotton_seeds_-_01.jpg
 http://commons.wikimedia.org/wiki/File:Just_a_sheaf_of_wheat_-_geograph.org.uk_-_605846.jpg
 http://commons.wikimedia.org/wiki/File:Cotton_field_kv32.jpg
 http://commons.wikimedia.org/wiki/File:Wheat-Thinopryum_hybrid.jpg
+https://commons.wikimedia.org/wiki/File:Bacteria_used_to_make_wheat_seeds_nearly_immune_to_wheat_take-all.jpg
 
 farming plus
 ------------
