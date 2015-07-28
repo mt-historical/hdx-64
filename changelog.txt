@@ -1,3 +1,6 @@
+2015-07-28: gloopblocks shrubbery --> homedecor, added red and yellow 
+versions, made the green one more "green"
+
 2015-07-23: Add default acacia trees, dry grasses, rework regular grass 
 side and snow side, and farming wheat seeds.  Reworked wheat seeds (three
 times :P).
