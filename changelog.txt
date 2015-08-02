@@ -1,3 +1,5 @@
+2015-08-02: reworked travelnet mod support to match current state
+
 2015-07-28: gloopblocks shrubbery --> homedecor, added red and yellow 
 versions, made the green one more "green"
 
