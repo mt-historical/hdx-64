@@ -234,9 +234,9 @@ http://upload.wikimedia.org/wikipedia/commons/b/ba/ManilaPaper.jpg
 
 pine tree:
 http://upload.wikimedia.org/wikipedia/commons/e/e1/Growth-rings-on-stump-of-pine_2_FI-EU_2007-Aug-10_by-RAM.jpg
-http://upload.wikimedia.org/wikipedia/commons/0/01/Pinus_virginiana.jpg
 http://en.wikipedia.org/wiki/File:Pine_bark_tecpan_guatemala.JPG
 http://upload.wikimedia.org/wikipedia/commons/8/83/Douglasie_Holz.JPG
+https://commons.wikimedia.org/wiki/File:Pinus_halepensis_foliage.jpg
 
 acacia tree:
 https://commons.wikimedia.org/wiki/File:Acacia-salicina-branches3.jpg
