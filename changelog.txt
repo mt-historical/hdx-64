@@ -1,4 +1,5 @@
-2015-08-17: All new texture for jungle tree trunk, modified trunk top to suit
+2015-08-17: All new texture for jungle tree trunk, modified trunk top to 
+suit.  Tweaked junglewood to better-match current minetest_game texture
 
 2015-08-16: Rework pine needles, cones, and trunk top.
 
