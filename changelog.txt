@@ -1,3 +1,5 @@
+2015-08-17: All new texture for jungle tree trunk, modified trunk top to suit
+
 2015-08-16: Rework pine needles, cones, and trunk top.
 
 2015-08-05: split ui_crafting image into a dedicated craft grid + trash 

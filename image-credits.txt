@@ -114,10 +114,9 @@ default_junglegrass
 (photograph by Abe Ezekowitz, 2010-08-31)
 
 default_jungletree
-http://commons.wikimedia.org/wiki/File:White_Oak_Quercus_alba_Tree_Bark_3264px.jpg
+https://commons.wikimedia.org/wiki/File:Roots_of_BIG_Banyan_Tree.jpg
 
 default_jungletree_top
-http://commons.wikimedia.org/wiki/File:White_Oak_Quercus_alba_Tree_Bark_3264px.jpg
 http://commons.wikimedia.org/wiki/File:Tree_rings.jpg
 
 default_ladder
