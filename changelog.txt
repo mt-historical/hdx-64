@@ -1,7 +1,8 @@
 2015-08-17: All new texture for jungle tree trunk, modified trunk top to 
 suit.  Tweaked junglewood to better-match current minetest_game texture.  
 Added moreblock split stone tile alt texture and grey bricks, and added 
-bedrock deepstone.  Added default straw and cottages reet.
+bedrock deepstone.  Added default straw and cottages reet.  Swapped in a 
+more accurate building blocks grating.
 
 2015-08-16: Rework pine needles, cones, and trunk top.
 
