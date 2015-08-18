@@ -1,6 +1,7 @@
 2015-08-17: All new texture for jungle tree trunk, modified trunk top to 
 suit.  Tweaked junglewood to better-match current minetest_game texture.  
-Added moreblock split stone tile alt texture.
+Added moreblock split stone tile alt texture and grey bricks, and added 
+bedrock deepstone.
 
 2015-08-16: Rework pine needles, cones, and trunk top.
 
