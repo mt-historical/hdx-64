@@ -1,3 +1,7 @@
+2015-09-24: Added partial support for valleys mapgen, totally reworked 
+moretrees fir needles, reworked default clay and unified bricks 
+clayblock images
+
 2015-08-25: deleted castle straw (uses farming_straw.png now).
 
 2015-08-21: drop support for the old plantlife mushroom mod, use those 
