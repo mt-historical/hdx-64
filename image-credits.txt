@@ -21,7 +21,7 @@ sand, desert sand:
 http://upload.wikimedia.org/wikipedia/commons/5/5a/Sand.jpg
 
 stone, desert stone:
-http://upload.wikimedia.org/wikipedia/commons/7/7b/Hokie_Stone_example.JPG
+https://commons.wikimedia.org/wiki/File:Light_brown_stone_texture.jpg
 
 sandstone:
 http://commons.wikimedia.org/wiki/File:Sandstone_surface.jpg
@@ -130,7 +130,7 @@ default_mineral_coal
 http://commons.wikimedia.org/wiki/File:Coal_lump.jpg
 
 default_mineral_iron
-http://commons.wikimedia.org/wiki/File:Hoesch-Hauptverwaltung-IMG_1039.JPG
+https://commons.wikimedia.org/wiki/File:Jaspilite_(Soudan_Iron-Formation,_Neoarchean,_~2.69_Ga;_wall_of_stope_at_the_27th_level_of_the_Soudan_Mine,_Soudan,_Minnesota,_USA)_24_(19004010946).jpg
 
 default_mossycobble
 http://commons.wikimedia.org/wiki/File:Camaret_Steine_SK_DSC_0009.jpg
@@ -226,7 +226,7 @@ http://commons.wikimedia.org/wiki/File:Front_door_of_Morey_Mansion.jpg
 Also Minetest logo as used on main page, wiki, etc.
 
 mese (in stone)
-http://en.wikipedia.org/wiki/File:Blue_Hills_blue_rocks.jpg
+https://en.wikipedia.org/wiki/File:Carbonado_diamondites_Bangui_region,_Central_African_Republic.jpg
 
 paper
 http://upload.wikimedia.org/wikipedia/commons/b/ba/ManilaPaper.jpg
@@ -247,6 +247,8 @@ https://commons.wikimedia.org/wiki/File:Acacia_caffra00.jpg
 Straw:
 https://commons.wikimedia.org/wiki/File:Straw_bale_wall.JPG
 
+default diamond:
+https://commons.wikimedia.org/wiki/File:Crystal_Head_Vodka_Herkimer_diamonds.jpg
 
 hatches, throwing
 ----------------
@@ -283,7 +285,7 @@ All Swords:
 http://commons.wikimedia.org/wiki/File:The_Svante_Nilsson_Sture_Sword_01.jpg
 
 mineral_gold
-http://commons.wikimedia.org/wiki/File:Gold-270438.jpg
+https://commons.wikimedia.org/wiki/File:Gold-Australia_XlizedNugget2.jpg
 
 gold_lump
 http://commons.wikimedia.org/wiki/File:Gold-49956.jpg
@@ -301,7 +303,7 @@ tin_lump
 http://commons.wikimedia.org/wiki/File:Gold-49956.jpg
 
 mineral_silver
-http://en.wikipedia.org/wiki/File:Platinum-nugget.jpg
+https://commons.wikimedia.org/wiki/File:Fine_(or_pure)_silver.JPG
 
 silver_lump
 http://commons.wikimedia.org/wiki/File:Gold-49956.jpg
