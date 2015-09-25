@@ -1,3 +1,5 @@
+2015-09-25: reworked gloopblocks basalt
+
 2015-09-24: Added partial support for valleys mapgen, totally reworked 
 moretrees fir needles, reworked default clay and unified bricks 
 clayblock images (twice :P ).  Deleted a couple of unused images.
