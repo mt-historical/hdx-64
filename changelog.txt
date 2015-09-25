@@ -1,6 +1,6 @@
 2015-09-24: Added partial support for valleys mapgen, totally reworked 
 moretrees fir needles, reworked default clay and unified bricks 
-clayblock images
+clayblock images (twice :P ).  Deleted a couple of unused images.
 
 2015-08-25: deleted castle straw (uses farming_straw.png now).
 
