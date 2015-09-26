@@ -1,8 +1,8 @@
 2015-09-25: Reworked: default mineral/ore images, glowstone/nether 
 glowstone, default cobble, default stone and desert stone and various 
 images derived from them (twice), all "mossy" images, gloopblocks 
-basalt, obsidian, gravel, building_blocks gravel spread.  Tweaked acacia 
-wood.
+basalt, pumice, cement, obsidian, pavement, gravel, building_blocks 
+gravel spread.  Tweaked acacia wood.
 
 2015-09-24: Added partial support for valleys mapgen, totally reworked 
 moretrees fir needles, reworked default clay and unified bricks 
