@@ -2,7 +2,7 @@
 glowstone, default cobble, default stone and desert stone and various 
 images derived from them (twice), all "mossy" images, gloopblocks 
 basalt, pumice, cement, obsidian, pavement, gravel, building_blocks 
-gravel spread.  Tweaked acacia wood.
+gravel spread.  Tweaked acacia wood. Added default obsidian brick.
 
 2015-09-24: Added partial support for valleys mapgen, totally reworked 
 moretrees fir needles, reworked default clay and unified bricks 
