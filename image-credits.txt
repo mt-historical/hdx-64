@@ -695,8 +695,8 @@ Gloopblocks
 Basalt:
 http://commons.wikimedia.org/wiki/File:G%C3%A9oscope-_Basalt_%28Doleritic%29_4393.JPG
 
-Obsidian:
-http://commons.wikimedia.org/wiki/File:Obsidian_1.jpg
+Obsidian / obsidian glass:
+https://commons.wikimedia.org/wiki/File:Lipari-Obsidienne_(5).jpg
 
 Pumice:
 http://commons.wikimedia.org/wiki/File:Pumice_stone_detail444.jpg
