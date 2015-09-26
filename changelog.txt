@@ -1,3 +1,5 @@
+2015-09-26: tweaked desert cobble color
+
 2015-09-25: Reworked: default mineral/ore images, glowstone/nether 
 glowstone, default cobble, default stone and desert stone and various 
 images derived from them (multiple times), all "mossy" images, 
