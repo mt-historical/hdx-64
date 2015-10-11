@@ -1202,3 +1202,4 @@ https://commons.wikimedia.org/wiki/File:Stones_eroding_into_flash_flood_silt_bed
 https://upload.wikimedia.org/wikipedia/commons/2/29/Giant_mushroom_underside.jpg
 https://commons.wikimedia.org/wiki/File:Pulcherricium_caeruleum,_Cobalt_Crust_fungus.JPG
 
+protector lock/logo: https://commons.wikimedia.org/wiki/File:Masterpadlock.jpg
