@@ -1,3 +1,6 @@
+2015-10-12: Added homedecor Coca Cola machine imagery -- derived entirely from 
+freely-licensed photos and non-trademark-eligible Coca Cola logo.
+
 2015-10-11: Aded protector logo/padlock
 
 2015-09-26: tweaked desert cobble color
