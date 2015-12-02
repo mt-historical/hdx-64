@@ -1,3 +1,5 @@
+2015-12-02: unified bricks clay blocks got screwed up somehow. fixed.
+
 2015-12-01: added moreblocks tar
 
 2015-10-12: Added homedecor Coca Cola machine imagery -- derived entirely from 
