@@ -1,3 +1,5 @@
+2015-12-01: added moreblocks tar
+
 2015-10-12: Added homedecor Coca Cola machine imagery -- derived entirely from 
 freely-licensed photos and non-trademark-eligible Coca Cola logo.
 
