@@ -1,3 +1,5 @@
+2015-12-13: reworked coloredwood wood blocks based on current HDX default wood
+
 2015-12-02: unified bricks clay blocks got screwed up somehow. fixed.
 
 2015-12-01: added moreblocks tar
