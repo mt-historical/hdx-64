@@ -1,4 +1,6 @@
-2015-12-13: reworked coloredwood wood blocks based on current HDX default wood
+2015-12-13: reworked coloredwood wood blocks based on current HDX 
+default wood, and reworked most blox mod textures to use current stone 
+and wood images, where appropriate.
 
 2015-12-02: unified bricks clay blocks got screwed up somehow. fixed.
 
