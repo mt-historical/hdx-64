@@ -1,3 +1,7 @@
+2015-12-16: Added support for the cutting-table-oriented letters mod 
+used on MT-Zeno, VE-Survival, and VE-Creative servers (not 'Alphabet' or 
+'glowing letters')
+
 2015-12-13: reworked coloredwood wood blocks, blox mod stone- and 
 wood-based blocks, and cottages bed to use current default HDX stone and 
 wood, where appropriate.
