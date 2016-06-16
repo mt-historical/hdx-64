@@ -1,3 +1,6 @@
+2016-06-16: Added support for 0.4.14-style fences, corrected error on 
+junglewood texture
+
 2015-12-16: Added support for the cutting-table-oriented letters mod 
 used on MT-Zeno, VE-Survival, and VE-Creative servers (not 'Alphabet' or 
 'glowing letters')
