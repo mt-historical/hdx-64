@@ -1,3 +1,5 @@
+2016-06-17: added homedecor chainlink and barbed gates, fixed chainlink corner
+
 2016-06-(16-17): A whole bunch of changes:
 * Added support for 0.4.14-style fences
 * corrected error on junglewood texture.
