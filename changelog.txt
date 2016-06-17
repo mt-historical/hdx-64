@@ -4,7 +4,8 @@ textures as basis to replace outdated Realtest versions.  Added
 homedecor lattices.  Added homedecor curtains and deleted a bunch of 
 related, obsolete files.  Re-added homedecor fancy exterior door and all 
 of the other standard doors it used to have.  Also added default glass, 
-obsidian glass, wood, and steel doors.
+obsidian glass, wood, and steel doors, and the paper component for 
+homedecor's japanese doors.
 
 2015-12-16: Added support for the cutting-table-oriented letters mod 
 used on MT-Zeno, VE-Survival, and VE-Creative servers (not 'Alphabet' or 
