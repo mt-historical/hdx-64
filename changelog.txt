@@ -17,6 +17,7 @@
 * Added building_blocks sticks
 * Added homedecor motor and technic equivalent
 * Added homedecor fan blades and heating element
+* Added mesecons fiber, glue, and silicon
 * Deleted all 16 and 32px homedecor images (just some random files left
   over from my scaling script that were never supposed to be present)
 
