@@ -12,6 +12,7 @@
 * Also added default glass, obsidian glass, wood, and steel doors
 * Added the paper component for homedecor's japanese doors.
 * Added homedecor cobweb
+* Added homedecor "lattice" lamp
 * Deleted all 16 and 32px homedecor images (just some random files left
   over from my scaling script that were never supposed to be present)
 
