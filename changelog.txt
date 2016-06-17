@@ -2,7 +2,9 @@
 junglewood texture. Added support for default aspen trees, used those 
 textures as basis to replace outdated Realtest versions.  Added 
 homedecor lattices.  Added homedecor curtains and deleted a bunch of 
-related, obsolete files.  Re-added homedecor fancy exterior door.
+related, obsolete files.  Re-added homedecor fancy exterior door and all 
+of the other standard doors it used to have.  Also added default glass 
+and default obsidian glass doors.
 
 2015-12-16: Added support for the cutting-table-oriented letters mod 
 used on MT-Zeno, VE-Survival, and VE-Creative servers (not 'Alphabet' or 
