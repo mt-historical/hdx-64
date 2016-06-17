@@ -1,4 +1,4 @@
-2016-06-(16-17): Lots of small-ish changes:
+2016-06-(16-17): A whole bunch of changes:
 * Added support for 0.4.14-style fences
 * corrected error on junglewood texture.
 * Added support for default aspen trees, used those textures as basis to 
@@ -21,6 +21,7 @@
 * Added default wood and steel ladders
 * Added technic wrench, and uranium lump, dist, ingot
 * Added homedecor paraffin
+* Added default wooden and steel signs
 * Deleted all 16 and 32px homedecor images (just some random files left
   over from my scaling script that were never supposed to be present)
 
