@@ -6,9 +6,12 @@
 * Added homedecor lattices.
 * Added homedecor curtains and deleted a bunch of related, obsolete files.
 * Re-added all of the standard homedecor doors that used to be supported 
-  by this pack.
+  by this pack.  Also added the white bedroom door and the type-2 wrought
+  iron door, along with its corresponding fence.
 * Also added default glass, obsidian glass, wood, and steel doors
 * Added the paper component for homedecor's japanese doors.
+* Deleted all 16 and 32px homedecor images (just some random files left
+  over from my scaling script that were never supposed to be present)
 
 2015-12-16: Added support for the cutting-table-oriented letters mod 
 used on MT-Zeno, VE-Survival, and VE-Creative servers (not 'Alphabet' or 
