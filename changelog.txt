@@ -1,6 +1,7 @@
 2016-06-16: Added support for 0.4.14-style fences, corrected error on 
 junglewood texture. Added support for default aspen trees, used those 
-textures as basis to replace outdated Realtest versions.
+textures as basis to replace outdated Realtest versions.  Added 
+homedecor lattices.
 
 2015-12-16: Added support for the cutting-table-oriented letters mod 
 used on MT-Zeno, VE-Survival, and VE-Creative servers (not 'Alphabet' or 
