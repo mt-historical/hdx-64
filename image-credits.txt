@@ -644,6 +644,9 @@ http://commons.wikimedia.org/wiki/File:Kluft-photo-fireworks-Cameron-Park-June-2
 Homedecor
 ---------
 
+motor
+https://commons.wikimedia.org/wiki/File:Motors01CJC.jpg
+
 cobweb
 https://commons.wikimedia.org/wiki/File:Typical-orb-web-photo.jpg
 

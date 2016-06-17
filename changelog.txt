@@ -15,6 +15,7 @@
 * Added homedecor "lattice" lamp
 * Added default flint, flint/steel, and fake_fire flint/steel
 * Added building_blocks sticks
+* Added homedecor motor and technic equivalent
 * Deleted all 16 and 32px homedecor images (just some random files left
   over from my scaling script that were never supposed to be present)
 
