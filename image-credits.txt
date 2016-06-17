@@ -791,6 +791,7 @@ http://commons.wikimedia.org/wiki/File:Kohlenstofffasermatte.jpg
 http://commons.wikimedia.org/wiki/File:Halite_crystal_with_orange_inclusions.JPG
 http://commons.wikimedia.org/wiki/File:CANDU_fuel_bundles.jpg
 (CANDU fuel bundles are (C) Atomic Energy of Canada Limited, used by their license)
+https://commons.wikimedia.org/wiki/File:Olympic_dam_ore_cpy.JPG
 
 Snow mod
 --------
