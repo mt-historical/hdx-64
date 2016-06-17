@@ -644,6 +644,9 @@ http://commons.wikimedia.org/wiki/File:Kluft-photo-fireworks-Cameron-Park-June-2
 Homedecor
 ---------
 
+woodglass door "type a"
+https://commons.wikimedia.org/wiki/File:Mississippi_New_State_Capitol_Building_in_Jackson_showing_bathroom_door.jpg
+
 woodglass2 door
 https://commons.wikimedia.org/wiki/File:Front_door_in_side_of_house,_Seacombe.JPG
 
