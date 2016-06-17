@@ -1,3 +1,5 @@
+2016-06-16: added homedecor white wood/glass door
+
 2016-06-16: Added support for 0.4.14-style fences, corrected error on 
 junglewood texture. Added support for default aspen trees, used those 
 textures as basis to replace outdated Realtest versions.  Added 
