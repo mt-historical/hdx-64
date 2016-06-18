@@ -1,4 +1,4 @@
-2016-06-17: More changes
+2016-06-(17-18): More changes
 * Added homedecor chainlink and barbed gates, fixed chainlink corner
 * Fixed streets steel support, added infrastructure truss
 * Added infrastructure 'riffled' sheet (diamond plate), corrugated
@@ -8,6 +8,7 @@
 * Added homedecor speaker driver inv image
 * Added castles mod crossbow and bolt
 * Added carbone mobs' meat, rat inv, cooked rat
+* Added technic fine gold and silver wire
 
 2016-06-(16-17): A whole bunch of changes:
 * Added support for 0.4.14-style fences
