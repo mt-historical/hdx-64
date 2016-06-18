@@ -1253,3 +1253,9 @@ https://upload.wikimedia.org/wikipedia/commons/2/29/Giant_mushroom_underside.jpg
 https://commons.wikimedia.org/wiki/File:Pulcherricium_caeruleum,_Cobalt_Crust_fungus.JPG
 
 protector lock/logo: https://commons.wikimedia.org/wiki/File:Masterpadlock.jpg
+
+carbone_mobs
+------------
+meat:
+https://commons.wikimedia.org/wiki/File:Lamb_shank.jpg
+https://commons.wikimedia.org/wiki/File:Dry_salting_leg_of_lamb.jpg
