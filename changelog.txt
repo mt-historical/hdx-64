@@ -1,6 +1,7 @@
 2016-06-17: More changes
 * Added homedecor chainlink and barbed gates, fixed chainlink corner
 * Fixed streets steel support, added infrastructure truss
+* Added infrastructure 'riffled' sheet (diamond plate)
 
 2016-06-(16-17): A whole bunch of changes:
 * Added support for 0.4.14-style fences
