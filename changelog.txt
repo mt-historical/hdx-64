@@ -6,6 +6,7 @@
   images, razor wire, paving stone and related grass, most of the
   various signs, noise barrier, drainage grate, and crowd barricade.
 * Added homedecor speaker driver inv image
+* Added castles mod crossbow and bolt
 
 2016-06-(16-17): A whole bunch of changes:
 * Added support for 0.4.14-style fences
