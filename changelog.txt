@@ -1,9 +1,12 @@
+2016-06-18: Added several infrastructure signs
+
 2016-06-17: More changes
 * Added homedecor chainlink and barbed gates, fixed chainlink corner
 * Fixed streets steel support, added infrastructure truss
 * Added infrastructure 'riffled' sheet (diamond plate), corrugated
   sheet, galvanized steel block, wire netting and cable/rope barrier 
-  images, razor wire, paving stone and related grass, and ped. crossing sign.
+  images, razor wire, paving stone and related grass, and most of the
+  various signs.
 
 2016-06-(16-17): A whole bunch of changes:
 * Added support for 0.4.14-style fences
