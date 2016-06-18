@@ -5,7 +5,7 @@
   sheet, galvanized steel block, wire netting and cable/rope barrier 
   images, razor wire, paving stone and related grass, most of the
   various signs, noise barrier, drainage grate, and crowd barricade.
-
+* Added homedecor speaker driver inv image
 
 2016-06-(16-17): A whole bunch of changes:
 * Added support for 0.4.14-style fences
