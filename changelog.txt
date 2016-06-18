@@ -3,7 +3,7 @@
 * Fixed streets steel support, added infrastructure truss
 * Added infrastructure 'riffled' sheet (diamond plate), corrugated 
   sheet, galvanized steel block, wire netting and cable/rope barrier 
-  images, and razor wire.
+  images, razor wire, paving stone and related grass.
 
 2016-06-(16-17): A whole bunch of changes:
 * Added support for 0.4.14-style fences
