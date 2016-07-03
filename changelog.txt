@@ -5,6 +5,8 @@
 * Added support for and reworked the textures for most homedecor-modpack-
   related items that use wrought iron, brass, gold, or default wood.
 * Added technic brass block.
+* Added minegeld bundle.
+* Added inventory image for homedecor stone path.
 
 2016-06-(17-18): More changes
 * Added homedecor chainlink and barbed gates, fixed chainlink corner
