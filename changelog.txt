@@ -1,6 +1,5 @@
+
 2016-07-(02-03): More changes:
-* Added homedecor welcome mats.
-* Added homedecor embers and fake_fire equivalent.
 * Removed a few redundant/unused low-res images.
 * Added support for and reworked the textures for most homedecor-modpack-
   related items that use wrought iron, brass, gold, or default wood.
@@ -9,6 +8,9 @@
 * Added inventory image for homedecor stone path.
 * Added homedecor desk inventory image
 * Added homedecor doghouse inventory image
+* Added homedecor stained glass
+* Added homedecor welcome mats.
+* Added homedecor embers and fake_fire equivalent.
 * Added farming potato seed and inventory image (not the plants)
 
 2016-06-(17-18): More changes
