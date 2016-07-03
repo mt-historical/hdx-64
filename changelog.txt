@@ -8,6 +8,7 @@
 * Added minegeld bundle.
 * Added inventory image for homedecor stone path.
 * Added homedecor desk inventory image
+* Added homedecor doghouse inventory image
 * Added farming potato seed and inventory image (not the plants)
 
 2016-06-(17-18): More changes
