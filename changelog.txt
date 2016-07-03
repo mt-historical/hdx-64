@@ -1,4 +1,3 @@
-
 2016-07-(02-03): More changes:
 * Removed a few redundant/unused low-res images.
 * Added support for and reworked the textures for most homedecor-modpack-
@@ -11,6 +10,7 @@
 * Added homedecor stained glass
 * Added homedecor welcome mats.
 * Added homedecor embers and fake_fire equivalent.
+* Added homedecor dartboard
 * Added farming potato seed and inventory image (not the plants)
 
 2016-06-(17-18): More changes
