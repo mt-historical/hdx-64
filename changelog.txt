@@ -1,7 +1,8 @@
 2016-07-(02-03): Added homedecor welcome mats and embers, and fake_fire 
 equivalent, removed a few redundant low-res images, added support for 
 and reworked the textures for most homedecor-modpack-related items that 
-use wrought iron.
+use wrought iron.  Did the same for brass-based items, and added technic 
+brass block.
 
 2016-06-(17-18): More changes
 * Added homedecor chainlink and barbed gates, fixed chainlink corner
