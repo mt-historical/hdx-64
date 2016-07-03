@@ -13,6 +13,7 @@
 * Added homedecor dartboard.
 * Added homedecor generic copper texture and copper pans.
 * Added farming potato seed and inventory image (not the plants).
+* Added default boat inventory and wield images
 
 2016-06-(17-18): More changes
 * Added homedecor chainlink and barbed gates, fixed chainlink corner
