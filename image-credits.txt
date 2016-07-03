@@ -1034,7 +1034,6 @@ https://commons.wikimedia.org/wiki/File:Bacteria_used_to_make_wheat_seeds_nearly
 
 farming plus
 ------------
-http://www.wpclipart.com/food/vegetables/potato/potato2/potato_with_sprouts.jpg.html
 http://commons.wikimedia.org/wiki/File:CarrotRoots.jpg
 https://commons.wikimedia.org/wiki/File:Carrotseeds3d.jpg
 http://commons.wikimedia.org/wiki/File:Crabgrass.JPG
@@ -1055,6 +1054,7 @@ http://commons.wikimedia.org/wiki/File:Orange_and_cross_section.jpg
 http://commons.wikimedia.org/wiki/File:Cocoa_beans_P1410151.JPG
 http://commons.wikimedia.org/wiki/File:Cocoa_Pods.JPG
 http://commons.wikimedia.org/wiki/File:Kobe_Mosaic16n3072.jpg
+https://commons.wikimedia.org/wiki/File:Potato_var._Linda_HC1.JPG
 
 display_blocks
 --------------
