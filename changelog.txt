@@ -1,5 +1,7 @@
-2016-07-02: Added homedecor welcome mats and embers, and fake_fire 
-equivalent, removed a few redundant low-res images.
+2016-07-(02-03): Added homedecor welcome mats and embers, and fake_fire 
+equivalent, removed a few redundant low-res images, added support for 
+and reworked the textures for most homedecor-modpack-related items that 
+use wrought iron.
 
 2016-06-(17-18): More changes
 * Added homedecor chainlink and barbed gates, fixed chainlink corner
