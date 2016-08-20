@@ -1,3 +1,5 @@
+2016-08-19: completed support for cottages mod's feldweg meshes
+
 2016-07-(02-03): More changes:
 * Removed a few redundant/unused low-res images.
 * Added support for and reworked the textures for most homedecor-modpack-
