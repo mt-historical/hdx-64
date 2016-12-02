@@ -2,7 +2,8 @@
 desert stone block, reworked stone/desert stone brick to match, new 
 sandstone block texture, reworked sandstone brick to match, added 
 default coral, bush, key textures, renamed rails to match current carts 
-scheme, added basic support for current boost_carts' additional rails
+scheme, added basic support for current boost_carts' additional rails, 
+added default-doors steel trapdoor.
 
 2016-08-19: completed support for cottages mod's feldweg meshes
 
