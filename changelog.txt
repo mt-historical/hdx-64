@@ -1,5 +1,6 @@
 2016-12-02: renamed nyancat textures, added default stone block and 
-desert stone block, reworked stone/desert stone brick to match.
+desert stone block, reworked stone/desert stone brick to match, new 
+sandstone block texture, reworked sandstone brick to match
 
 2016-08-19: completed support for cottages mod's feldweg meshes
 
