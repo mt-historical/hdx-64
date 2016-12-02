@@ -1,3 +1,5 @@
+2016-12-02: renamed nyancat textures
+
 2016-08-19: completed support for cottages mod's feldweg meshes
 
 2016-07-(02-03): More changes:
