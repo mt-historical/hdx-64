@@ -1,7 +1,8 @@
 2016-12-02: renamed nyancat textures, added default stone block and 
 desert stone block, reworked stone/desert stone brick to match, new 
 sandstone block texture, reworked sandstone brick to match, added 
-default coral, bush, key textures
+default coral, bush, key textures, renamed rails to match current carts 
+scheme, added basic support for current boost_carts' additional rails
 
 2016-08-19: completed support for cottages mod's feldweg meshes
 
