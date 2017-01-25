@@ -1,3 +1,6 @@
+2017-01-24: removed redundant plasticbox images - that mod uses param2 
+coloring now.
+
 2017-01-01: Added default silver sand
 
 2016-12-02: renamed nyancat textures, added default stone block and 
