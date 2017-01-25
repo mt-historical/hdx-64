@@ -1,5 +1,6 @@
-2017-01-24: removed redundant plasticbox images - that mod uses param2 
-coloring now.
+2017-01-25: Updated some homedecor images to go along with the 
+node-colorization update. Deleted lots of outdated lrfurn images.  
+Removed redundant plasticbox images - that mod uses param2 coloring now.
 
 2017-01-01: Added default silver sand
 
