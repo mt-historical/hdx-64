@@ -1,3 +1,7 @@
+2017-01-27: Delete lots of redundant coloredwood, stainedglass, and 
+unifiedbricks images, and updated support for these mods (param2 
+colorization).
+
 2017-01-25: Updated some homedecor images to go along with the 
 node-colorization update. Deleted lots of outdated lrfurn images.  
 Removed redundant plasticbox images - that mod uses param2 coloring now.
