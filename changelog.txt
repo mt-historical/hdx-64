@@ -1,5 +1,6 @@
 2017-02-05: Added castles tapestry texture (param2-colorize version), 
-Switched bobblocks textures to param2-colorable.
+Switched bobblocks textures to param2-colorable, switched blox textures 
+over to param2 colorized style.
 
 2017-01-27: Delete lots of redundant coloredwood, stainedglass, and 
 unifiedbricks images, and updated support for these mods (param2 
