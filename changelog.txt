@@ -1,3 +1,6 @@
+2017-02-06: Update homedecor tiles image for param2 coloring, delete 
+unintended low-rez homedecor images.
+
 2017-02-05: Added castles tapestry texture (param2-colorize version), 
 Switched bobblocks textures to param2-colorable, switched blox textures 
 over to param2 colorized style, switched homedecor glowlight textures 
