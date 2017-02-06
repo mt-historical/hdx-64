@@ -1,3 +1,5 @@
+2017-02-06: updated unified bricks "multicolor" images
+
 2017-02-06: Update homedecor tiles image for param2 coloring, delete 
 unintended low-rez homedecor images.
 
