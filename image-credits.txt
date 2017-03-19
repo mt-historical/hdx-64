@@ -1279,3 +1279,7 @@ carbone_mobs
 meat:
 https://commons.wikimedia.org/wiki/File:Lamb_shank.jpg
 https://commons.wikimedia.org/wiki/File:Dry_salting_leg_of_lamb.jpg
+
+inspector
+---------
+https://commons.wikimedia.org/wiki/File:Loupe_%C3%A0_main.jpg
