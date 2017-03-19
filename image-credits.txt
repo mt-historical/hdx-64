@@ -826,6 +826,7 @@ http://commons.wikimedia.org/wiki/File:CANDU_fuel_bundles.jpg
 https://commons.wikimedia.org/wiki/File:Olympic_dam_ore_cpy.JPG
 https://en.wikipedia.org/wiki/File:Craftsman_16_Gallon_Wet-Dry_Vac.jpg
 https://commons.wikimedia.org/wiki/File:HEUraniumC.jpg
+https://commons.wikimedia.org/wiki/File:Galenit_1.jpg
 
 Snow mod
 --------
