@@ -1,3 +1,5 @@
+2017-04-04: removed obsolete pipeworks inventory images
+
 2017-03-18: Add image for sofar's inspector mod, and custom 
 sign-on/game-start progress bar images.  New, MUCH better technic 'lead 
 block' image, and new lead ore image to go with it.
