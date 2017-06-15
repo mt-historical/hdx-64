@@ -1,4 +1,5 @@
-2017-06-15: removed some old normalmaps that somehow made it in
+2017-06-15: removed some old normalmaps that somehow made it in, fix 
+broken LICENSE references
 
 2017-04-04: removed obsolete pipeworks inventory images
 
