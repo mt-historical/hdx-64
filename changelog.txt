@@ -1,3 +1,5 @@
+2017-06-15: removed some old normalmaps that somehow made it in
+
 2017-04-04: removed obsolete pipeworks inventory images
 
 2017-03-18: Add image for sofar's inspector mod, and custom 
