@@ -1,3 +1,5 @@
+2018-10-18: Add image for darkage:lamp (copy of homedecor large lattice lamp)
+
 2018-09-22: Recolored gravel to better-match default texture
 
 2018-08-28: Added unified dyes airbrush
