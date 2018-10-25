@@ -1285,3 +1285,7 @@ https://commons.wikimedia.org/wiki/File:Dry_salting_leg_of_lamb.jpg
 inspector
 ---------
 https://commons.wikimedia.org/wiki/File:Loupe_%C3%A0_main.jpg
+
+compost barrel
+--------------
+https://commons.wikimedia.org/wiki/File:Compost_.jpg

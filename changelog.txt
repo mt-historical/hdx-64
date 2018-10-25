@@ -1,12 +1,14 @@
+2018-10-25: Add image for skyblock compost
+
 2018-10-18: Add image for darkage:lamp (copy of homedecor large lattice lamp)
 
 2018-09-22: Recolored gravel to better-match default texture
 
 2018-08-28: Added unified dyes airbrush
 
-2018-08-23: add textures for gloopblocks' implementation of usesdirt nodes, add steel mod colored 
-steel, re-name and re-color sand[stone] blocks, adding silver sand[stone] and desert sandstone where 
-missing.
+2018-08-23: add textures for gloopblocks' implementation of usesdirt 
+nodes, add steel mod colored steel, re-name and re-color sand[stone] 
+blocks, adding silver sand[stone] and desert sandstone where missing.
 
 2017-06-15: removed some old normalmaps that somehow made it in, fix 
 broken LICENSE references
