@@ -1,3 +1,5 @@
+2018-10-27: Add image for moreblocks compressed dirt
+
 2018-10-25: Add image for skyblock compost
 
 2018-10-18: Add image for darkage:lamp (copy of homedecor large lattice lamp)

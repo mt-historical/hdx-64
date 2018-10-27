@@ -347,6 +347,9 @@ http://commons.wikimedia.org/wiki/File:Besom_broom.jpg
 oerkkiblock
 http://commons.wikimedia.org/wiki/File:Mineral_Cinabrio_GDFL013.jpg
 
+compressed dirt
+https://commons.wikimedia.org/wiki/File:Rammed_earth_detail,_Campfield_Marsh,_Cumbria.jpg
+
 Mesecons
 --------
 
