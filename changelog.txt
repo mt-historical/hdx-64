@@ -1,3 +1,5 @@
+2018-10-31: remove lower-res Lua controller images
+
 2018-10-27: Add image for moreblocks compressed dirt
 
 2018-10-25: Add image for skyblock compost
