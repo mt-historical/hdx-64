@@ -1,6 +1,7 @@
 2018-11-11: Rename and consolidate cement and concrete images. Use 
 basic_materials filenames, make cement darker. Rename other 
-images as needed to use basic_materials filenames.
+images as needed to use basic_materials filenames.  Add gold and
+silver wire.
 
 2018-10-31: remove lower-res Lua controller images
 
