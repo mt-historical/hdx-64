@@ -1,5 +1,5 @@
-2018-11-11: Rename and consolidate cement and concrete images; use 
-basic_materials filenames.
+2018-11-11: Rename and consolidate cement and concrete images. Use 
+basic_materials filenames, make cement darker.
 
 2018-10-31: remove lower-res Lua controller images
 
