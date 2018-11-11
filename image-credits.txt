@@ -1292,3 +1292,8 @@ https://commons.wikimedia.org/wiki/File:Loupe_%C3%A0_main.jpg
 compost barrel
 --------------
 https://commons.wikimedia.org/wiki/File:Compost_.jpg
+
+basic_mateirials
+----------------
+steel bar:
+https://commons.wikimedia.org/wiki/File:Straight_rebar_closeup.jpg
