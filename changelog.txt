@@ -1,8 +1,8 @@
 2019-05-13: Adjusted brightness and contrast of default cobble, default 
-"apple" wood, and gloopblocks pumice to better match the default 
-textures.  Updated default "apple" wood fence to match the wood block 
-change, updated junglewood fence, added corresponding fence rails for 
-both.
+"apple" wood, default pine wood, and of gloopblocks pumice to make them 
+all better match the default textures.  Updated default apple wood and 
+pine wood fences to match the wood block change, updated junglewood 
+fence, and added corresponding fence rails for all three.
 
 2018-11-11: Rename and consolidate cement and concrete images. Use 
 basic_materials filenames, make cement darker. Rename other 
