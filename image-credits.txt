@@ -1302,3 +1302,7 @@ basic_mateirials
 ----------------
 steel bar:
 https://commons.wikimedia.org/wiki/File:Straight_rebar_closeup.jpg
+
+plantlife
+---------
+https://upload.wikimedia.org/wikipedia/commons/c/c0/Bamboo_Sticks.JPG
