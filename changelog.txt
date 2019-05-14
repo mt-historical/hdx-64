@@ -28,12 +28,14 @@
 * Added castles/anvil hammer
 * Add technic cast iron block
 * Add bees smoker
-* Add lots of stuff for farming/farming redo: blueberries, 
-  strawberries, peas, peapod, onion, garlic, corn, grapes, green beans, 
-  beetroot, chili peppers, [bell] pepper, peppercorn, ground pepper, 
-  cucumber, cocoa beans, chocolate, cookie, coffee beans, pineapple, 
-  donuts, hemp leaf, hemp fibre, hemp oil, carrot juice, golden carrot 
-  (just the inventory images for all of these), hemp block, hemp rope.
+* Add lots of stuff for farming/farming redo: 
+    pineapple juice, ethanol, multigrain flour, replaced flour with 
+    brighter version, added rice flour, blueberries, strawberries, peas, 
+    peapod, onion, garlic, corn, grapes, green beans, beetroot, chili 
+    peppers, [bell] pepper, peppercorn, ground pepper, cucumber, cocoa 
+    beans, chocolate, cookie, coffee beans, pineapple, donuts, hemp leaf, 
+    hemp fibre, hemp oil, carrot juice, golden carrot (just the inventory 
+    images for all of these), hemp block, hemp rope.
 * Redid regular carrot inv image, got rid 
   of obsolete versions.
 * Renamed banana images to apply to farming_redo instead of the old 

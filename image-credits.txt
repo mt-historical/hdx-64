@@ -1042,6 +1042,8 @@ http://commons.wikimedia.org/wiki/File:Twisted_link_chain.jpg
 
 farming/redo/plus
 -----------------
+https://upload.wikimedia.org/wikipedia/commons/b/b9/Watermelon.jpg
+https://upload.wikimedia.org/wikipedia/commons/4/4f/Square_watermelon.jpg
 https://upload.wikimedia.org/wikipedia/commons/d/dc/Carrot-fb.jpg
 https://www.openfotos.com/view/black-pepper-5816
 https://upload.wikimedia.org/wikipedia/commons/e/e5/YosriLadaHitam.jpg
