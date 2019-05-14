@@ -258,6 +258,10 @@ https://commons.wikimedia.org/wiki/File:Crystal_Head_Vodka_Herkimer_diamonds.jpg
 coral:
 https://commons.wikimedia.org/wiki/File:Colpophyllia_natans_(Boulder_Brain_Coral)_entire_colony.jpg
 
+coniferous ground litter
+https://upload.wikimedia.org/wikipedia/commons/6/6d/Teach_in_pine_needles.jpg
+https://upload.wikimedia.org/wikipedia/commons/3/34/Forest_ground_wood_chips_pine_needles.jpg
+
 hatches, throwing
 ----------------
 hatches_hatch
