@@ -19,7 +19,8 @@
 * Renamed moreblocks "moreblocks_split_stone_tile_alt.xxx" to 
   "moreblocks_checker_stone_tile.png"
 * Reworked moreblocks wood tiles to match current state of that mod
-* Updated plankstone and trapstone images
+* Updated plankstone images
+* Cleaned-up and reworked moreblocks trap images
 * Got rid of a bunch of obsolete moreblocks and moreores images
 
 2018-11-11: Rename and consolidate cement and concrete images. Use 
