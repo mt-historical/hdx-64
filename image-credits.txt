@@ -4,6 +4,9 @@ the following free and open-licensed files:
 
 Default stuff
 -------------
+binoculars:
+https://upload.wikimedia.org/wikipedia/commons/5/59/Binocular_20101111.jpg
+
 All ingots:
 http://www.clker.com/clipart-63536.html
 http://commons.wikimedia.org/wiki/File:Gold_bullion_1.jpg
@@ -1037,8 +1040,30 @@ http://commons.wikimedia.org/wiki/File:Hammer-1.jpg
 http://commons.wikimedia.org/wiki/File:Hand_saw_-_small.jpg
 http://commons.wikimedia.org/wiki/File:Twisted_link_chain.jpg
 
-farming
--------
+farming/redo/plus
+-----------------
+https://upload.wikimedia.org/wikipedia/commons/d/dc/Carrot-fb.jpg
+https://www.openfotos.com/view/black-pepper-5816
+https://upload.wikimedia.org/wikipedia/commons/e/e5/YosriLadaHitam.jpg
+https://upload.wikimedia.org/wikipedia/commons/e/e0/Cannabis_sativa_s._lat._sl5.jpg
+https://upload.wikimedia.org/wikipedia/commons/2/27/Textielmuseum-cabinet-12.jpg
+https://upload.wikimedia.org/wikipedia/commons/a/ae/Clif_Chocolate_Mint_Builder%27s_Bar.jpg
+https://www.kisscc0.com/png/chocolate-chip-cookie-chocolate-bar-biscuits-cooki-r2l3lu/
+https://upload.wikimedia.org/wikipedia/commons/b/b3/Pineapple_on_the_rocks_%28Unsplash%29.jpg
+https://www.kisscc0.com/png/pineapple-slice-upside-down-cake-pizza-food-pineap-u9tpxq/
+https://upload.wikimedia.org/wikipedia/commons/d/d4/Semillas_de_cacao_usadas_como_moneda.JPG
+https://upload.wikimedia.org/wikipedia/commons/c/cf/Coffee_beans_-_ziarna_kawy.jpg
+https://upload.wikimedia.org/wikipedia/commons/e/ed/Cucumber_and_cross_section.jpg
+https://upload.wikimedia.org/wikipedia/commons/7/7f/Red_and_green_bell_peppers.jpg
+https://upload.wikimedia.org/wikipedia/commons/6/69/Beet_it_%28295804450%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/5/56/Gruene_Bohnen.jpg
+https://upload.wikimedia.org/wikipedia/commons/3/3a/%D8%A7%D9%86%DA%AF%D9%88%D8%B1.jpg
+https://upload.wikimedia.org/wikipedia/commons/0/0d/Corn_pink.jpg
+https://upload.wikimedia.org/wikipedia/commons/4/4b/Maize_-_Corn.jpg
+https://upload.wikimedia.org/wikipedia/commons/6/69/Garlic_.jpg
+https://commons.wikimedia.org/wiki/File:Garlic_01.jpg
+https://upload.wikimedia.org/wikipedia/commons/2/25/Onion_on_White.JPG
+https://upload.wikimedia.org/wikipedia/commons/4/4c/Pigeon_pea_%28Red_gram%2C_Thuvarai_in_Tamil%29_02.jpg
 http://commons.wikimedia.org/wiki/File:Japanese-hoe-kuwa,katori-city,japan.JPG
 http://commons.wikimedia.org/wiki/File:Freshly_baked_bread_loaves.jpg
 http://commons.wikimedia.org/wiki/File:Triticum_spelta_flour,_speltmeel.jpg
@@ -1047,11 +1072,6 @@ http://commons.wikimedia.org/wiki/File:Just_a_sheaf_of_wheat_-_geograph.org.uk_-
 http://commons.wikimedia.org/wiki/File:Cotton_field_kv32.jpg
 http://commons.wikimedia.org/wiki/File:Wheat-Thinopryum_hybrid.jpg
 https://commons.wikimedia.org/wiki/File:Bacteria_used_to_make_wheat_seeds_nearly_immune_to_wheat_take-all.jpg
-
-farming plus
-------------
-http://commons.wikimedia.org/wiki/File:CarrotRoots.jpg
-https://commons.wikimedia.org/wiki/File:Carrotseeds3d.jpg
 http://commons.wikimedia.org/wiki/File:Crabgrass.JPG
 https://commons.wikimedia.org/wiki/File:Bread_dumpling_dough.jpg
 http://commons.wikimedia.org/wiki/File:Yeasted_Banana_Bread.jpg
@@ -1105,6 +1125,7 @@ bees
 ----
 http://en.wikipedia.org/wiki/File:Honeybee_landing_on_milkthistle02.jpg
 http://commons.wikimedia.org/wiki/File:Honeycombs-rayons-de-miel-2.jpg
+https://upload.wikimedia.org/wikipedia/commons/2/2a/Beekeeping_smoker.jpg
 
 misc/for later
 --------------
