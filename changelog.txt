@@ -9,6 +9,7 @@
 * Added default acacia bush sapling and default ferns.
 * Added default permafrost and related moss textures, updated mossycobble.
 * Added coniferous and rainforest ground litter
+* Got rid of default fence inventory image (obsolete)
 * Added default and farming blueberries (well, just copies of the
   bushed_classic ones)
 * Added mese lamp/post
