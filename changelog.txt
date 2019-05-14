@@ -28,6 +28,7 @@
 * Add 50 and 100 Mg notes and 5, 10, and 25 Mg cent coins (currency mod)
 * Removed all menu overlay/background images (they don't work anymore)
 * Added dryplans reeds and redid cottages "reet"
+* Added "emergent" default jungletree sapling
 
 2018-11-11: Rename and consolidate cement and concrete images. Use 
 basic_materials filenames, make cement darker. Rename other 
