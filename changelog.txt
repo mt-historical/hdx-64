@@ -38,7 +38,7 @@
     mortar-and-pestle raspberry, sugar, rice and rice grains/seed, toast
     and toast sandwich, glass mixing bowl, wooden bowl, bowls of chili,
     borscht (beetroot soup), pea soup, porridge, potato/cucumber salad,
-    and corn starch, salt and rose water
+    and corn starch, salt, rose water, smoothie and coffee (cup)
 * Reworked cotton, added string, deleted obsolete images. Fixed missing 
   ethanol images.
 * Reworked farming breads, adding new ones as needed.
