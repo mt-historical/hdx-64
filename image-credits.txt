@@ -1149,6 +1149,8 @@ bees
 http://en.wikipedia.org/wiki/File:Honeybee_landing_on_milkthistle02.jpg
 http://commons.wikimedia.org/wiki/File:Honeycombs-rayons-de-miel-2.jpg
 https://upload.wikimedia.org/wikipedia/commons/2/2a/Beekeeping_smoker.jpg
+https://commons.wikimedia.org/wiki/File:Frame_from_a_hive_J1.jpg
+https://upload.wikimedia.org/wikipedia/commons/5/52/Beeswax_for_jewellery.jpg
 
 misc/for later
 --------------
