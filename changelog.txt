@@ -13,6 +13,7 @@
 * Added coniferous and rainforest ground litter
 * Got rid of default fence inventory image (obsolete)
 * Added mese lamp/post
+* Updated boats images, removed obsolete ones
 * Renamed moreblocks "moreblocks_split_stone_tile_alt.xxx" to 
   "moreblocks_checker_stone_tile.png"
 * Reworked moreblocks wood tiles to match current state of that mod
