@@ -35,7 +35,7 @@
     peppers, [bell] pepper, peppercorn, ground pepper, cucumber, cocoa 
     beans, chocolate, cookie, coffee beans, pineapple, donuts, hemp leaf, 
     hemp fibre, hemp oil, carrot juice, golden carrot (just the inventory 
-    images for all of these), hemp block, hemp rope.
+    images for all of these), hemp block, hemp rope, mortar-and-pestle
 * Reworked farming breads, adding new ones as needed.
 * Redid regular carrot inv image, got rid 
   of obsolete versions.
