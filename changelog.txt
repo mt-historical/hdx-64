@@ -7,7 +7,9 @@
   the wood block changes, updated junglewood fence, and added 
   corresponding fence rails for all all.
 * Added default acacia bush sapling and default ferns.
-* Added default permafrost and related moss textures, updated mossycobble.
+* Added default permafrost, stones, and related moss textures, updated
+  mossycobble.
+* Added default black tulip
 * Added coniferous and rainforest ground litter
 * Got rid of default fence inventory image (obsolete)
 * Added mese lamp/post
@@ -58,7 +60,6 @@
 * Fixed bad prefab concrete door images, and remove obsolete images
 * Added default obsidian block
 * Added digistuff digimese
-* Added default stones (permafrost with stones, etce)
 * Tweak basic_materials oil bottle a bit
 * Added bees honey bottle, frame, empty frame, beeswax, animated beee 
   swarm; removed obsolete bees images
