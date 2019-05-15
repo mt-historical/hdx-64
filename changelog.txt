@@ -51,6 +51,7 @@
   anyways)
 * Removed obsolete "potatoe" images
 * Renamed plasticbox, deleted outdated plastic sheet images
+* Fixed missing unifiedbricks mortar images
 
 2018-11-11: Rename and consolidate cement and concrete images. Use 
 basic_materials filenames, make cement darker. Rename other 
