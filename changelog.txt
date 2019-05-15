@@ -11,6 +11,7 @@
   mossycobble.
 * Added default black tulip
 * Added coniferous and rainforest ground litter
+* Added fireflies
 * Got rid of default fence inventory image (obsolete)
 * Added mese lamp/post
 * Updated boats images, removed obsolete ones
