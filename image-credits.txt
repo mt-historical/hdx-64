@@ -1042,6 +1042,12 @@ http://commons.wikimedia.org/wiki/File:Twisted_link_chain.jpg
 
 farming/redo/plus
 -----------------
+https://upload.wikimedia.org/wikipedia/commons/6/6d/Japanese_Rice_Bread.JPG
+https://upload.wikimedia.org/wikipedia/commons/1/1d/Homemade_garlic_bread_and_pizza_%2811505917766%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/4/46/Vegan_no-knead_whole_wheat_bread_loaf%2C_September_2010.jpg
+https://upload.wikimedia.org/wikipedia/commons/8/81/Pain_carre_blanc.jpg
+https://upload.wikimedia.org/wikipedia/commons/6/6c/Toast-2.jpg
+https://upload.wikimedia.org/wikipedia/commons/6/6f/Paderborner_Landbrot_Slice.JPG
 https://upload.wikimedia.org/wikipedia/commons/b/b9/Watermelon.jpg
 https://upload.wikimedia.org/wikipedia/commons/4/4f/Square_watermelon.jpg
 https://upload.wikimedia.org/wikipedia/commons/d/dc/Carrot-fb.jpg
@@ -1067,7 +1073,6 @@ https://commons.wikimedia.org/wiki/File:Garlic_01.jpg
 https://upload.wikimedia.org/wikipedia/commons/2/25/Onion_on_White.JPG
 https://upload.wikimedia.org/wikipedia/commons/4/4c/Pigeon_pea_%28Red_gram%2C_Thuvarai_in_Tamil%29_02.jpg
 http://commons.wikimedia.org/wiki/File:Japanese-hoe-kuwa,katori-city,japan.JPG
-http://commons.wikimedia.org/wiki/File:Freshly_baked_bread_loaves.jpg
 http://commons.wikimedia.org/wiki/File:Triticum_spelta_flour,_speltmeel.jpg
 http://commons.wikimedia.org/wiki/File:Cotton_seeds_-_01.jpg
 http://commons.wikimedia.org/wiki/File:Just_a_sheaf_of_wheat_-_geograph.org.uk_-_605846.jpg
@@ -1076,7 +1081,6 @@ http://commons.wikimedia.org/wiki/File:Wheat-Thinopryum_hybrid.jpg
 https://commons.wikimedia.org/wiki/File:Bacteria_used_to_make_wheat_seeds_nearly_immune_to_wheat_take-all.jpg
 http://commons.wikimedia.org/wiki/File:Crabgrass.JPG
 https://commons.wikimedia.org/wiki/File:Bread_dumpling_dough.jpg
-http://commons.wikimedia.org/wiki/File:Yeasted_Banana_Bread.jpg
 http://commons.wikimedia.org/wiki/File:Tomato-cut_vertical.png
 http://commons.wikimedia.org/wiki/File:Tomato-cut_horizontal.png
 http://commons.wikimedia.org/wiki/File:Strawberry_surface_closeup.jpg

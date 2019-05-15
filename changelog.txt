@@ -36,6 +36,7 @@
     beans, chocolate, cookie, coffee beans, pineapple, donuts, hemp leaf, 
     hemp fibre, hemp oil, carrot juice, golden carrot (just the inventory 
     images for all of these), hemp block, hemp rope.
+* Reworked farming breads, adding new ones as needed.
 * Redid regular carrot inv image, got rid 
   of obsolete versions.
 * Renamed banana images to apply to farming_redo instead of the old 
