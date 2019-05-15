@@ -39,7 +39,7 @@
     and toast sandwich, glass mixing bowl, wooden bowl, bowls of chili,
     borscht (beetroot soup), pea soup, porridge, potato/cucumber salad,
     and corn starch, salt, rose water, smoothie, coffee (cup), baked
-    potato, and pumpkin slice
+    potato, pumpkin slice, and pumpkin dough
 * Reworked cotton, added string, deleted obsolete images. Fixed missing 
   ethanol images.
 * Reworked farming breads, adding new ones as needed.
@@ -62,7 +62,7 @@
 * Tweak basic_materials oil bottle a bit
 * Added bees honey bottle, frame, empty frame, beeswax, animated beee 
   swarm; removed obsolete bees images
-
+* Renamed Jack o' lantern images
 
 2018-11-11: Rename and consolidate cement and concrete images. Use 
 basic_materials filenames, make cement darker. Rename other 
