@@ -57,6 +57,7 @@
 * Cut excess detail from both default trapdoor side images
 * Fixed bad prefab concrete door images, and remove obsolete images
 * Added default obsidian block
+* Added digistuff digimese
 
 2018-11-11: Rename and consolidate cement and concrete images. Use 
 basic_materials filenames, make cement darker. Rename other 
