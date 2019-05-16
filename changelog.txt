@@ -1,13 +1,16 @@
+2019-05-16: re-add menu header/overlay images now that I figured out why 
+they weren't working on my end
+
 2019-05-13 to 05-15: Multiple changes:
 
 * Adjusted brightness and contrast of default cobble, default "apple", 
-  pine, and acacia woods, and gloopblocks pumice to make them all better 
-  match the default textures.
+  pine, and acacia woods to make them all better match the default 
+  textures.
 * Updated default apple, pine, acacia, and aspen wood fences to match 
   the wood block changes, updated junglewood fence, and added 
-  corresponding fence rails for all all.
+  corresponding fence rails for all.
 * Added default acacia bush sapling and default ferns.
-* Added default permafrost, stones, and related moss textures, updated
+* Added default permafrost, stones, and related moss textures, updated 
   mossycobble.
 * Added default black tulip
 * Added coniferous and rainforest ground litter
@@ -15,57 +18,56 @@
 * Got rid of default fence inventory image (obsolete)
 * Added mese lamp/post
 * Updated boats images, removed obsolete ones
-* Renamed moreblocks "moreblocks_split_stone_tile_alt.xxx" to 
-  "moreblocks_checker_stone_tile.png"
+* Rework torches to comply with current mt_game model/style, remove 
+  obsolete textures
+* Added "emergent" default jungletree sapling
+* Fixed missing trapdoor images
+* Fix bad default wood trapdoor side
+* Cut excess detail from both default trapdoor side images
+* Fixed missing cottages steel hatch image
+* Adjusted brightness/contrast/etc. on gloopblocks pumice to make it 
+  better match the mod's default texture.
+* Renamed "moreblocks_split_stone_tile_alt" to "moreblocks_checker_stone_tile"
 * Reworked moreblocks wood tiles to match current state of that mod
 * Updated plankstone images
 * Cleaned-up and reworked moreblocks trap images
 * Got rid of a bunch of obsolete moreblocks and moreores images
-* Fixed prefab(_redo) ladder images
-* Rework torches to comply with current mt_game model/style, remove 
-  obsolete textures
 * Add 50 and 100 Mg notes and 5, 10, and 25 Mg cent coins (currency mod)
-* Removed all menu overlay/background images (they don't work anymore)
 * Added dryplants reeds and redid cottages "reet"
-* Added "emergent" default jungletree sapling
 * Added trunks sticks block
 * Added castles/anvil hammer
 * Add technic cast iron block
-* Add bees smoker
-* Add lots of stuff for farming/farming redo: 
+* Add lots of stuff for farming/farming redo:
     pineapple juice, ethanol, multigrain flour, replaced flour with brighter 
     version, added rice flour, blueberries, strawberries, peas, peapod, 
     onion, garlic, corn, grapes, green beans, beetroot, chili peppers, 
     [bell] pepper, peppercorn, ground pepper, cucumber, cocoa beans, 
     chocolate, cookie, coffee beans, pineapple, donuts, hemp leaf, hemp 
-    fibre, hemp oil, carrot juice, golden carrot hemp block, hemp rope, 
-    mortar-and-pestle raspberry, sugar, rice and rice grains/seed, toast
-    and toast sandwich, glass mixing bowl, wooden bowl, bowls of chili,
-    borscht (beetroot soup), pea soup, porridge, potato/cucumber salad,
-    and corn starch, salt, rose water, smoothie, coffee (cup), baked
-    potato, pumpkin slice, and pumpkin dough
-* Reworked cotton, added string, deleted obsolete images. Fixed missing 
-  ethanol images.
+    fibre, hemp oil, hemp block, hemp rope, mortar-and-pestle raspberry, 
+    sugar, rice and rice grains/seed, toast and toast sandwich, glass mixing 
+    bowl, wooden bowl, bowls of chili, borscht (beetroot soup), pea soup, 
+    porridge, potato/cucumber salad, and corn starch, salt, rose water, 
+    smoothie, coffee (cup), baked potato, pumpkin slice, pumpkin dough, 
+    carrot juice, golden carrot
+* Reworked regular carrot inv image, got rid of obsolete versions
+* Reworked cotton, added string, deleted obsolete images.
 * Reworked farming breads, adding new ones as needed.
-* Redid regular carrot inv image, got rid 
-  of obsolete versions.
 * Renamed banana images to apply to farming_redo instead of the old 
   farming_plus
-* Dropped support for the old cotton mod (obsolete, can't be found anymore
-  anyways)
 * Removed obsolete "potatoe" images
 * Renamed plasticbox, deleted outdated plastic sheet images
 * Fixed missing unifiedbricks mortar images
-* Fixed missing trapdoor images and missing cottages steel hatch image
-* Fix bad default wood trapdoor side
-* Cut excess detail from both default trapdoor side images
-* Fixed bad prefab concrete door images, and remove obsolete images
+* Fixed bad prefab(_redo) concrete ladder and door images, and remove 
+  obsolete images
 * Added default obsidian block
 * Added digistuff digimese
 * Tweak basic_materials oil bottle a bit
-* Added bees honey bottle, frame, empty frame, beeswax, animated beee 
-  swarm; removed obsolete bees images
+* Added bees smoker, honey bottle, frame, empty frame, beeswax, animated 
+  bee swarm; removed obsolete bees images
 * Renamed Jack o' lantern images
+* Dropped support for the old cotton mod (obsolete, can't be found 
+  anymore anyways)
+* Removed all menu overlay/background images (they don't work anymore)
 
 2018-11-11: Rename and consolidate cement and concrete images. Use 
 basic_materials filenames, make cement darker. Rename other 
