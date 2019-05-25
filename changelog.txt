@@ -1,3 +1,8 @@
+2019-05-25: Drop support for homedecor doors (broken by conversion to 
+minetest_game doors API, will re-add later)
+
+2019-05-17: add farming: raspberry, sugar, rice and rice grains/seed, toast and toast sandwich, glass mixing bowl, wooden bowl, bowls of chili, borscht (beetroot soup), pea soup, porridge, potato/cucumber salad, corn starch. Reworked cotton, added string, deleted obsolete images. Fixed missing ethanol images.
+
 2019-05-16: re-add menu header/overlay images now that I figured out why 
 they weren't working on my end
 
