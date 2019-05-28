@@ -1,3 +1,7 @@
+2019-05-28: Drop support for default doors and trap doors (not 
+compatible with homedecor's 3dify mod anymore; will fix them to work 
+with it and re-add later), delete a couple of obsolete images
+
 2019-05-25: Drop support for homedecor doors (broken by conversion to 
 minetest_game doors API.  Drop support for homedecor glow lights and 
 lattice lanterns (broken by simplfication rework).  Will re-add all of 
