@@ -1,5 +1,5 @@
-2019-06-01: Re-added support for default doors and homedecor doors 
-(redone from scratch, as needed)
+2019-06-01: Re-added support for default doors, homedecor doors (redone 
+from scratch as needed), and default trapdoors (redone from scratch).
 
 2019-05-28: Drop support for default doors and trap doors (not 
 compatible with homedecor's 3dify mod anymore; will fix them to work 
