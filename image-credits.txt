@@ -870,6 +870,12 @@ http://upload.wikimedia.org/wikipedia/commons/c/c2/SnowflakesWilsonBentley.jpg
 
 Moretrees
 ---------
+Cedar
+https://commons.wikimedia.org/wiki/File:Cedrus_libani_ssp._atlantica_%27Glauca%27_cone_02_by_Line1.jpg
+https://commons.wikimedia.org/wiki/File:Athrotaxis_laxifolia_(Summit_Cedar)_-_bark_(31294382685).jpg
+https://commons.wikimedia.org/wiki/File:Cryptomeria_japonica01.jpg
+https://commons.wikimedia.org/wiki/File:Deodar_Cedar_Cedrus_deodara_%27Gold_Cone%27_Needle_Closeup_3264px.jpg
+https://it.wikipedia.org/wiki/File:Deodar_Cedar_Cedrus_deodara_%27Gold_Cone%27_Needles_3264px.jpg
 
 Palm
 http://commons.wikimedia.org/wiki/File:Palm_tree_trunk.JPG

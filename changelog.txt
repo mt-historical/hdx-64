@@ -1,3 +1,5 @@
+2019-06-20: Add textures for moretrees cedar
+
 2019-06-03: rename some door images to follow changes in Home Decor:
 
 2019-06-01: Delete some obsolete glass door images
