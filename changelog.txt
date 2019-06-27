@@ -1,3 +1,5 @@
+2019-06-27: run all images through pngcrush+optipng, or jpegoptim (limit 95%)
+
 2019-06-22: Added full support for titanium mod
 
 2019-06-20: Add textures for moretrees cedar
