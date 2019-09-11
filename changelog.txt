@@ -1,5 +1,6 @@
 2019-09-11: Update all signs images for basic_signs and for signs_lib 
-commit 4ff54c9a and later
+commit 4ff54c9a and later.  Fix wrong filenames on signs_lib default 
+wood/steel wall signs.
 
 2019-06-27: run all images through pngcrush+optipng, or jpegoptim (limit 95%)
 
