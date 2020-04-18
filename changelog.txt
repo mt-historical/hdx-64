@@ -1,3 +1,5 @@
+2020-04-18: Added Darkage silt
+
 2019-09-11: Update all signs images for basic_signs and for signs_lib 
 commit 4ff54c9a and later.  Fix wrong filenames on signs_lib default 
 wood/steel wall signs.
